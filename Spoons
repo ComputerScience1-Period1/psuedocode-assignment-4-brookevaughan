@@ -37,5 +37,7 @@ While the last player does not have the last spoon:
   Once the first spoon is grabbed because of a four of a kind, every other player will try and take the remaining spoons before they are gone, regardless if they have a four of a kind themselves.
   If the spoons run out:
    the person remaining spoonless will be out of the game.
+   When the round ends:
+    the amount of spoons is reduced by one.
    Repeat until zero spoons are left.
 The last player with the last spoon wins the game and rounds are over
